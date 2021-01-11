@@ -1,0 +1,22 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "Mongoose 101",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavdog/mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavdog/mongoose/issues"
+  },
+  "homepage": "https://github.com/kavdog/mongoose#readme",
+  "dependencies": {
+    "mongoose": "^5.11.11"
+  }
+}
